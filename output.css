@@ -892,6 +892,10 @@ video {
     display: grid;
   }
 
+  .md\:max-w-lg {
+    max-width: 32rem;
+  }
+
   .md\:columns-4 {
     -moz-columns: 4;
          columns: 4;
